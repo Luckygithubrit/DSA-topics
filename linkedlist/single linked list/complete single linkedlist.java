@@ -29,6 +29,7 @@ public class Linkedlist {
             head=newnode;
         }
     }
+    //insertion last
     public void insertlast(String data){
         Node newnode=new Node(data);//calling constructor
         if(head==null){
