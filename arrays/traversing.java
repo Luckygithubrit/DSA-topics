@@ -1,3 +1,4 @@
+
 import java.util.*;
 class Lucky {
     public static void main(String[] args) {
